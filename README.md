@@ -5,7 +5,7 @@ output photos are available in the screenshots folder.
 
 
 ### Links
-- Live Site URL: ([https://your-live-site-url.com](https://dineshranjan2001.github.io/summary-component-card/))
+- Live Site URL: (https://dineshranjan2001.github.io/summary-component-card/)
 
 ## My process
 
