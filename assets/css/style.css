@@ -123,11 +123,11 @@ html,body{
 }
 .summary-opts{
     display: flex;
-    padding: 13px;
+    padding: 15px;
     margin-bottom: 12px;
     border-radius: 8px;
     justify-content: space-between;
-    
+    font-size: 18px;
 }
 .summary-opts:nth-child(1){
     background-color: var(--Lightredbackground);
