@@ -193,10 +193,11 @@ html,body{
         border-top-right-radius: 0px;
     }
     .card-summary{
-        
         width: 100%;
     }
-    
+    .btn{
+        margin-bottom: 1.7rem;
+    }
 }
 
 @media screen and (min-width:1440px) {
